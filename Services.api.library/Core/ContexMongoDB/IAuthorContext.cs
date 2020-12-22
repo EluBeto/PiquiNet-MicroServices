@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 
 namespace Services.api.library.Core.ContexMongoDB
 {
-    public interface IAutorContexto
+    public interface IAuthorContext
     {
-        IMongoCollection<Author> Autores { get; }
+        IMongoCollection<Author> Authors { get; }
     }
 }

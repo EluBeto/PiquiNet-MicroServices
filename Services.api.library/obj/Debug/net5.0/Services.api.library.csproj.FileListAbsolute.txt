@@ -44,7 +44,6 @@ D:\Proyectos\PiquiNet\MicroservicePiquinet\Microservices\Services.api.library\ob
 D:\Proyectos\PiquiNet\MicroservicePiquinet\Microservices\Services.api.library\obj\Debug\net5.0\ref\Services.api.library.dll
 D:\Proyectos\PiquiNet\MicroservicePiquinet\Microservices\Services.api.library\obj\Debug\net5.0\Services.api.library.pdb
 D:\Proyectos\PiquiNet\MicroservicePiquinet\Microservices\Services.api.library\obj\Debug\net5.0\Services.api.library.genruntimeconfig.cache
-C:\Proyectos\PiquiNet\PiquiNet-MicroServices\Services.api.library\obj\Debug\net5.0\Services.api.library.csprojAssemblyReference.cache
 C:\Proyectos\PiquiNet\PiquiNet-MicroServices\Services.api.library\obj\Debug\net5.0\Services.api.library.GeneratedMSBuildEditorConfig.editorconfig
 C:\Proyectos\PiquiNet\PiquiNet-MicroServices\Services.api.library\obj\Debug\net5.0\Services.api.library.AssemblyInfoInputs.cache
 C:\Proyectos\PiquiNet\PiquiNet-MicroServices\Services.api.library\obj\Debug\net5.0\Services.api.library.AssemblyInfo.cs
@@ -90,3 +89,4 @@ C:\Proyectos\PiquiNet\PiquiNet-MicroServices\Services.api.library\obj\Debug\net5
 C:\Proyectos\PiquiNet\PiquiNet-MicroServices\Services.api.library\obj\Debug\net5.0\Services.api.library.RazorTargetAssemblyInfo.cache
 C:\Proyectos\PiquiNet\PiquiNet-MicroServices\Services.api.library\obj\Debug\net5.0\Services.api.library.csproj.CopyComplete
 C:\Proyectos\PiquiNet\PiquiNet-MicroServices\Services.api.library\obj\Debug\net5.0\Services.api.library.genruntimeconfig.cache
+C:\Proyectos\PiquiNet\PiquiNet-MicroServices\Services.api.library\obj\Debug\net5.0\Services.api.library.csprojAssemblyReference.cache
